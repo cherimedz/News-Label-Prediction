@@ -22,4 +22,4 @@ if st.button("Predict"):
     predicted_news_label = news_labels[str(predicted_label)]
 
 #Display predicted sentiment
-st.info(f"Predicted News Label: {predicted_news_label}")
+    st.info(f"Predicted News Label: {predicted_news_label}")
